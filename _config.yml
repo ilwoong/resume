@@ -16,18 +16,18 @@ author:
   address: Daejeon, Republic of Korea
   email: ilwoong.jeong@gmail.com
   link: https://woong.pe.kr
-  weibo:
   github: ilwoong
   linkedin: ilwoong
+  twitter: ilwoong
   workHistory:
     - work1:
-      company: Samsung Electronics
+      company: The Affiliated Institute of ETRI
       location: Daejeon, Republic of Korea
-      title: Java Developer
+      title: Senior Researcher
       started: 2015
       duration: (2015 - Present)      
     - work2:
-      company: The Affiliated Institute of ETRI
+      company: Samsung Electronics
       location: Suwon, Republic of Korea
       title: Senior Engineer
       started: 2011
@@ -52,8 +52,8 @@ author:
       location: Suwon, Republic of Korea
       degree: Bachelor
       major: Information and Computer Science
-      started: 2002
-      duration: (2002 - 2004)
+      started: 1998
+      duration: (1998 - 2002)
   languages:
     - language1:
       name: Korean
@@ -63,14 +63,14 @@ author:
       proficiency: Limit
   programmingSkills:
     - skill1:
-      name: C
-      percentage: 100%
-    - skill2:
-      name: C++
-      percentage: 90%
-    - skill3:
       name: Java
       percentage: 100%
+    - skill2:
+      name: C
+      percentage: 100%
+    - skill3:
+      name: C++
+      percentage: 90%
     - skill4:
-      name: WPF
+      name: C#/WPF
       percentage: 50%
